@@ -10,7 +10,7 @@ $ npm install @anandkishore06/tiny
 
 # Usage
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@anandkishore06/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
